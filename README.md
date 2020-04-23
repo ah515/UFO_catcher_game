@@ -11,3 +11,4 @@ python向けのレトロゲームエンジンであるPyxelを使用して
 クレーンの動きとUFOキャッチャーの世界を楽しんでください！
 
 ![Command_img](UFOcatchergame1.png)
+![Command_img](UFOcatchergame2.png)
