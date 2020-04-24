@@ -31,7 +31,7 @@ class App:
         pyxel.line(0, 2, 150, 2, 5)
 
         #0-0:close #32-0:open
-        pyxel.blt(pyxel.frame_count % pyxel.width, 3, 0, 32*(pyxel.frame_count % 2), 0, 32, 32, 0)
+        pyxel.blt(pyxel.frame_count % pyxel.width, 3, 0, 32*(pyxel.frame_count % 7), 0, 32, 64, 0)
 
         pyxel.blt(-15, 77, 1, 0, 0, 32, 32, 0)
         pyxel.blt(15, 77, 2, 0, 0, 32, 32, 0)
